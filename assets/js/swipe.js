@@ -12,17 +12,20 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       titre: "Projet Site de rencontre",
       description: "Un site dynamique en HTML/CSS/Javascript",
-      image: "assets/image/accueil.png"
+      image: "assets/image/accueil.png",
+      lien:"https://charlene149611.github.io/site-de-rencontre/"
     },
     {
       titre: "Premier projet React",
       description: "Un petit projet interactif de compteur utilisant React et Vite",
-      image: "assets/image/premierprojetreact.png"
+      image: "assets/image/premierprojetreact.png",
+      lien:"https://charlene149611.github.io/mini-jeu/"
     },
     {
-      titre: "Projet Portfolio",
-      description: "Un site statique incluant des animations et du dynamisme en HTML/CSS/Javascript. Le projet utilise également des bibliothèques externes telles que Bootstrap et Swipe, ainsi que des modules.",
-      image: "assets/image/portfolio.png"
+      titre: "Projet Portfolio, dernière version",
+      description: "Un site dynamique en HTML/CSS/Javascript en utilisant du HTML, CSS, JavasCript et JSON. Le projet utilise également des bibliothèques externes telles que Bootstrap et Swipe, ainsi que des modules.",
+      image: "assets/image/portfolio.png",
+      lien: "https://charlene149611.github.io/portfoliovlivrable/"
     }
   ];
 
